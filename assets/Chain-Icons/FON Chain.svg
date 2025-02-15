@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" rx="100" fill="#AC9FED"/>
+<rect width="200" height="200" rx="100" fill="url(#paint0_radial_440_110)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M100.096 28.9675L100.006 95.5136L161 61.5368L100.096 28.9675Z" fill="#604BCB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M100.007 95.5136L39.0137 61.5368L100.097 28.9675L100.007 95.5136Z" fill="#7A63F1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M99.998 95.5148L160.991 129.39V61.5378L99.998 95.5148Z" fill="#4732B2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M99.9945 95.5126L39.001 129.387V61.5358L99.9945 95.5126Z" fill="#4D389E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M161 139.993L100.006 106.118V171.986L161 139.993Z" fill="#7661E0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M99.9945 106.119L39.001 139.994L99.9945 171.987V106.119Z" fill="#604BCB"/>
+<defs>
+<radialGradient id="paint0_radial_440_110" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 90.5) rotate(90) scale(114)">
+<stop stop-color="white" stop-opacity="0.83"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
